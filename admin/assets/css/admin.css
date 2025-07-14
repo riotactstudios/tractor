@@ -1,0 +1,28 @@
+#qa_product_data {
+  padding: 13px;
+}
+
+#qa_product_data * {
+  box-sizing: border-box;
+}
+
+#qa_product_data .acf-label {
+  margin: 0;
+  height: 20px;
+}
+#qa_product_data .acf-label label {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+#qa_product_data .acf-field-post-object .acf-input {
+  min-height: 30px;
+}
+
+#qa_product_data .select2-container.-acf {
+  z-index: 5;
+}
+
+#qa_product_data .acf-checkbox-list label {
+  margin: 0;
+}
